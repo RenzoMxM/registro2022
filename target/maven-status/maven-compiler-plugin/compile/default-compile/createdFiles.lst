@@ -1,0 +1,9 @@
+pe\com\serviciosrest\repository\ProductoRepository.class
+pe\com\serviciosrest\rest\CategoriaController.class
+pe\com\serviciosrest\entity\Producto.class
+pe\com\serviciosrest\entity\Categoria.class
+pe\com\serviciosrest\service\ProductoService.class
+pe\com\serviciosrest\service\ProductoServiceImpl.class
+pe\com\serviciosrest\ServicioRestApplication.class
+pe\com\serviciosrest\repository\CategoriaRepository.class
+pe\com\serviciosrest\service\CategoriaService.class
